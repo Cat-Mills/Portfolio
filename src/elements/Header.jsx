@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Header() {
     return (
-        <div className='flex w-screen h-[8vh] bg-transparent fixed'>Header</div>
+        <div className='w-screen h-[10vh] bg-transparent fixed z-20'>
+            
+        </div>
     )
 }
